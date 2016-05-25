@@ -9,4 +9,4 @@ HolographyPlugin.prototype.apply = function(compiler) {
   });
 };
 
-module.exports = HolographPlugin;
+module.exports = HolographyPlugin;
