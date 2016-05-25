@@ -2,7 +2,7 @@
   "name" : "holograph-webpack-plugin",
   "main" : "index.js",
   "dependencies": {
-    "holograph": "*"
+    "holograph": "git+https://github.com/holography/holograph.git"
   },
   "license": "MIT",
   "author": "Ben Longden <ben@nocarrier.co.uk> (https://nocarrier.co.uk)",
