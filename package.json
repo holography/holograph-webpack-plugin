@@ -1,11 +1,11 @@
 {
-  "name" : "holography-webpack-plugin",
+  "name" : "holograph-webpack-plugin",
   "main" : "index.js",
   "dependencies": {
-    "holography": "*"
+    "holograph": "*"
   },
   "license": "MIT",
   "author": "Ben Longden <ben@nocarrier.co.uk> (https://nocarrier.co.uk)",
-  "repository": "https://github.com/holography/holography-webpack-plugin",
+  "repository": "https://github.com/holography/holograph-webpack-plugin",
   "version": "1.0.0"
 }

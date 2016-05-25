@@ -1,12 +1,12 @@
-function HolographyPlugin() {
-  this.hologram = require('holography');
+function HolographPlugin() {
+  this.holograph = require('holograph');
 }
 
-HolographyPlugin.prototype.apply = function(compiler) {
+HolographPlugin.prototype.apply = function(compiler) {
   var self = this;
   compiler.plugin('done', function() {
-    self.hologram.run();
+    self.holograph.run();
   });
 };
 
-module.exports = HolographyPlugin;
+module.exports = HolographPlugin;
