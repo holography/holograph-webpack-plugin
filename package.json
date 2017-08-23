@@ -1,7 +1,8 @@
 {
-  "name" : "holograph-webpack-plugin",
-  "main" : "index.js",
+  "name": "holograph-webpack-plugin",
+  "main": "index.js",
   "dependencies": {
+    "extend": "^3.0.0",
     "holograph": "git+https://github.com/holography/holograph.git"
   },
   "license": "MIT",
